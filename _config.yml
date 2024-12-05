@@ -9,3 +9,6 @@ url: "https://alexhammerschmied.github.io"
 theme: minima
 plugins:
   - jekyll-feed
+
+# Permalink structure
+permalink: /:title/
