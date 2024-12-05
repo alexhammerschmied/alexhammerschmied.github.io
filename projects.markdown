@@ -6,50 +6,50 @@ permalink: /projects/
 
 # 🚀 My Projects
 
-Here's an overview of the projects I'm currently working on or have built in the past. Each represents a different aspect of my interests and expertise in technology and automation.
+Here's an overview of the projects I'm currently working on or have built in the past. Each represents a different aspect of my expertise in marketing automation and digital solutions.
 
 <div class="project-grid">
   <div class="project-card">
     <div class="project-emoji">⚡</div>
     <h2><a href="https://automatethis.pro" target="_blank">AutomateThis.pro</a></h2>
-    <p>Your one-stop destination for business process automation. We help companies streamline their workflows and increase efficiency through smart automation solutions.</p>
+    <p>Specialized in Mautic marketing automation solutions. We help businesses implement professional email marketing and comprehensive marketing automation strategies using open-source tools. Our managed services make advanced marketing technology accessible and effective.</p>
     <div class="project-tags">
-      <span>Automation</span>
-      <span>Business</span>
-      <span>Efficiency</span>
-    </div>
-  </div>
-
-  <div class="project-card">
-    <div class="project-emoji">🎯</div>
-    <h2><a href="https://focusitems.com" target="_blank">FocusItems.com</a></h2>
-    <p>A minimalist productivity tool that helps you focus on what truly matters. Organize your tasks, set priorities, and achieve your goals with clarity and purpose.</p>
-    <div class="project-tags">
-      <span>Productivity</span>
-      <span>Organization</span>
-      <span>Focus</span>
+      <span>Mautic</span>
+      <span>Marketing Automation</span>
+      <span>Email Marketing</span>
     </div>
   </div>
 
   <div class="project-card">
     <div class="project-emoji">🔧</div>
     <h2><a href="https://hartmut.io" target="_blank">Hartmut.io</a></h2>
-    <p>An innovative platform offering specialized technical solutions and consulting services. We bridge the gap between complex technical challenges and elegant solutions.</p>
+    <p>Premium Mautic hosting and management services. We provide GDPR-compliant, stable, and secure managed Mautic solutions that help businesses automate their marketing processes and increase online sales while saving time.</p>
     <div class="project-tags">
-      <span>Technical</span>
-      <span>Solutions</span>
-      <span>Innovation</span>
+      <span>Mautic Hosting</span>
+      <span>Marketing Tools</span>
+      <span>Automation</span>
     </div>
   </div>
 
   <div class="project-card">
     <div class="project-emoji">🏭</div>
     <h2><a href="https://kraftfabrik.com" target="_blank">Kraftfabrik.com</a></h2>
-    <p>A powerhouse of digital transformation and industrial solutions. We help businesses modernize their operations and embrace the future of industry.</p>
+    <p>A hub for marketing automation services and software focused on eCommerce. We provide specialized content, courses, and solutions to help businesses and individuals develop their online presence and marketing strategies.</p>
     <div class="project-tags">
-      <span>Industry</span>
-      <span>Digital</span>
-      <span>Transform</span>
+      <span>eCommerce</span>
+      <span>Marketing</span>
+      <span>Education</span>
+    </div>
+  </div>
+
+  <div class="project-card">
+    <div class="project-emoji">🎯</div>
+    <h2><a href="https://focusitems.com" target="_blank">FocusItems.com</a></h2>
+    <p>A project focused on productivity and task management solutions. More details coming soon as the project develops.</p>
+    <div class="project-tags">
+      <span>Productivity</span>
+      <span>Development</span>
+      <span>Coming Soon</span>
     </div>
   </div>
 </div>
