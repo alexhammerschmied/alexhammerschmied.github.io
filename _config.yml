@@ -1,0 +1,11 @@
+title: Alex Hammerschmied's Blog
+description: Welcome to my personal blog!
+author:
+  name: Alex Hammerschmied
+baseurl: ""
+url: "https://alexhammerschmied.github.io"
+
+# Build settings
+theme: minima
+plugins:
+  - jekyll-feed
