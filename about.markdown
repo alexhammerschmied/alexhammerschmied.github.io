@@ -14,6 +14,7 @@ permalink: /about/
 - 👨‍💼 Co-founder of automatethis.pro & hartmut.io
 - 🎯 Focused on Marketing Automation & SaaS
 - 🏠 Living the Mediterranean dream with my wife
+- 🛝 Father of three wonderful kids (f,f,m)
 
 ## My Journey 🗺️
 
