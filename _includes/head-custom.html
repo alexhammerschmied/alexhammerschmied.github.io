@@ -1,0 +1,7 @@
+{% if page.lang %}
+<link rel="alternate" hreflang="{{ page.lang }}" href="{{ site.url }}{{ page.url }}" />
+{% endif %}
+{% assign pages=site.pages | where:"ref", page.ref | where_exp:"page", "page.lang != page.lang" %}
+{% for page in pages %}
+<link rel="alternate" hreflang="{{ page.lang }}" href="{{ site.url }}{{ page.url }}" />
+{% endfor %}
