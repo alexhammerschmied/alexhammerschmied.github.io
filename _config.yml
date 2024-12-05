@@ -17,7 +17,7 @@ plugins:
   - jekyll-feed
 
 # Permalink structure
-permalink: /:title/
+permalink: /:lang/:title/
 
 # Language specific settings
 t:
