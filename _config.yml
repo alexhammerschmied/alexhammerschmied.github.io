@@ -5,19 +5,26 @@ author:
 baseurl: ""
 url: "https://alexhammerschmied.github.io"
 
+# Build settings
+theme: minima
+plugins:
+  - jekyll-feed
+  - jekyll-polyglot
+
 # Multilingual settings
 languages: ["en", "de"]
 default_lang: "en"
 exclude_from_localization: ["assets", "css", "README.md"]
 parallel_localization: true
 
-# Build settings
-theme: minima
-plugins:
-  - jekyll-feed
+# Permalink structure (simplified)
+permalink: /:categories/:year/:month/:day/:title/
 
-# Permalink structure
-permalink: /:lang/:title/
+# Collections
+collections:
+  posts:
+    output: true
+    permalink: /:categories/:year/:month/:day/:title/
 
 # Language specific settings
 t:
