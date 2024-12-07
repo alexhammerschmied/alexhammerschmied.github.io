@@ -9,32 +9,6 @@ url: "https://alexhammerschmied.github.io"
 theme: minima
 plugins:
   - jekyll-feed
-  - jekyll-polyglot
 
-# Multilingual settings
-languages: ["en", "de"]
-default_lang: "en"
-exclude_from_localization: ["assets", "css", "README.md"]
-parallel_localization: true
-
-# Permalink structure (simplified)
-permalink: /:categories/:year/:month/:day/:title/
-
-# Collections
-collections:
-  posts:
-    output: true
-    permalink: /:categories/:year/:month/:day/:title/
-
-# Language specific settings
-t:
-  en:
-    home: Home
-    about: About
-    posts: Posts
-    language: English
-  de:
-    home: Startseite
-    about: Über
-    posts: Beiträge
-    language: Deutsch
+# Permalink structure
+permalink: /:year/:month/:day/:title/
