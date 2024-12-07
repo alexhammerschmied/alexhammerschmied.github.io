@@ -4,6 +4,7 @@ title:  "Welcome to My AI-Assisted Blog Journey"
 date:   2024-12-05 12:00:00 +0000
 categories: introduction
 ---
+![Description](/assets/images/posts/2024/1.webp)
 
 Hello, World! I'm Alex Hammerschmied, and welcome to my blog. I'm excited to share something unique with you - this entire blog is being created and maintained with the assistance of artificial intelligence, specifically using Claude, an AI assistant by Anthropic.
 
