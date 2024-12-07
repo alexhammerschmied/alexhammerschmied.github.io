@@ -1,5 +1,5 @@
 title: Alex Hammerschmied's Blog
-description: Welcome to my personal blog!
+description: This is my blog written with AI about how to work with AI and use it to build amazing things!
 author:
   name: Alex Hammerschmied
 baseurl: ""
@@ -11,4 +11,4 @@ plugins:
   - jekyll-feed
 
 # Permalink structure
-permalink: /:year/:month/:day/:title/
+permalink: /:title/
